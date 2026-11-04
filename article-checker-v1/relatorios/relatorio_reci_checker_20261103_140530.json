@@ -1,0 +1,580 @@
+{
+  "meta": {
+    "arquivo": "Submetido3.docx",
+    "formato": "DOCX",
+    "gerado em": "03/11/2026 14:05"
+  },
+  "summary": {
+    "NA": 27,
+    "-": 17,
+    "A": 24,
+    "AP": 6,
+    "NSA": 5
+  },
+  "sections": [
+    {
+      "name": "CATEGORIA DO MANUSCRITO – Artigo Original",
+      "items": [
+        {
+          "item": 100,
+          "description": "Artigo original: mínimo de 10 e máximo de 25 referências nos últimos 5 anos",
+          "status": "NA",
+          "comments": "9 referência(s) de 2021 em diante (de 25 no total) — mínimo 10"
+        }
+      ]
+    },
+    {
+      "name": "METADADOS",
+      "items": [
+        {
+          "item": 1,
+          "description": "A autoria é composta de, no máximo, 10 autores (exceção em multicêntricos)",
+          "status": "-",
+          "comments": "Não foi possível identificar os autores no manuscrito (esperado: 'Nome Sobrenome1 ORCID 0000-...')."
+        },
+        {
+          "item": 2,
+          "description": "Nomes completos sem abreviações",
+          "status": "-",
+          "comments": "Autores não identificados no manuscrito."
+        },
+        {
+          "item": 3,
+          "description": "Links ORCID e Lattes",
+          "status": "-",
+          "comments": "Autores não identificados no manuscrito."
+        },
+        {
+          "item": 4,
+          "description": "Instituição/Afiliação (com cidade e UF)",
+          "status": "-",
+          "comments": "Manuscrito sem autores/afiliações (versão anonimizada?) e folha de rosto não fornecida."
+        },
+        {
+          "item": 5,
+          "description": "Resumo da Biografia (categoria profissional e maior titulação)",
+          "status": "-",
+          "comments": "Folha de rosto não fornecida."
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTOS OBRIGATÓRIOS",
+      "items": [
+        {
+          "item": 101,
+          "description": "Cópia do Parecer do Comitê de Ética em Pesquisa (CEP), com nº de protocolo e data de aprovação",
+          "status": "NA",
+          "comments": "Arquivo não encontrado na pasta de anexos"
+        },
+        {
+          "item": 102,
+          "description": "Declaração de Originalidade",
+          "status": "NA",
+          "comments": "Arquivo não encontrado na pasta de anexos"
+        },
+        {
+          "item": 103,
+          "description": "Declaração de Responsabilidade e de Transferência de Direitos Autorais preenchida e assinada",
+          "status": "NA",
+          "comments": "Arquivo não encontrado na pasta de anexos"
+        },
+        {
+          "item": 104,
+          "description": "Termo de Compromisso de Tradução",
+          "status": "NA",
+          "comments": "Arquivo não encontrado na pasta de anexos"
+        },
+        {
+          "item": 105,
+          "description": "Arquivo com sugestão de avaliadores para o manuscrito",
+          "status": "NA",
+          "comments": "Arquivo não encontrado na pasta de anexos"
+        },
+        {
+          "item": 106,
+          "description": "Folha de rosto (padrão RECI)",
+          "status": "NA",
+          "comments": "Folha de rosto não enviada"
+        }
+      ]
+    },
+    {
+      "name": "FOLHA DE ROSTO",
+      "items": [
+        {
+          "item": 109,
+          "description": "Apresenta o título do artigo (folha de rosto)",
+          "status": "-",
+          "comments": "Folha de rosto não fornecida."
+        },
+        {
+          "item": 10,
+          "description": "Apresenta título, nome completo dos autores, afiliação, ORCID, lattes e biografia (folha de rosto)",
+          "status": "-",
+          "comments": "Folha de rosto não fornecida."
+        },
+        {
+          "item": 107,
+          "description": "E-mail do autor correspondente",
+          "status": "-",
+          "comments": "Folha de rosto não fornecida."
+        },
+        {
+          "item": 108,
+          "description": "Rede social de todos os autores (preferencialmente Instagram) para divulgação do artigo",
+          "status": "-",
+          "comments": "Folha de rosto não fornecida."
+        },
+        {
+          "item": 11,
+          "description": "São especificadas quais foram as contribuições individuais de cada autor na elaboração do artigo: nome completo de cada autor (em negrito e por extenso), seguido das contribuições.",
+          "status": "-",
+          "comments": "Folha de rosto não fornecida."
+        }
+      ]
+    },
+    {
+      "name": "FORMATAÇÃO GERAL DO MANUSCRITO",
+      "items": [
+        {
+          "item": 12,
+          "description": "A identificação de autoria do trabalho foi removida do arquivo e da opção Propriedades no Word",
+          "status": "NA",
+          "comments": "Propriedades com identificação: Última modificação por='Maria Eduarda Mueller'; Empresa='UNISC'. Word: Arquivo > Informações > Verificar Problemas > Inspecionar Documento > Propriedades do Documento."
+        },
+        {
+          "item": 13,
+          "description": "Está em formato Microsoft Word, digitado em .docx, até 2MB",
+          "status": "A",
+          "comments": "Arquivo .docx com 1.67 MB"
+        },
+        {
+          "item": 14,
+          "description": "Redigido na ortografia oficial, fonte Times New Roman 12, com espaçamento 1,5, sem espaçamento entre parágrafos (exceto: Resumo, Figuras, Tabelas e Referências – espaçamento simples)",
+          "status": "NA",
+          "comments": "espaçamento entre linhas 1.5 em Resumo/Referências (esperado simples): 31 parágrafo(s) (ex.: “Resumo: Justificativa e objetivos: as in…”). Ortografia oficial não é verificada automaticamente."
+        },
+        {
+          "item": 110,
+          "description": "Itálico para palavras de idioma diferente do manuscrito (ex.: nomes científicos)",
+          "status": "A",
+          "comments": "Nenhum nome científico/expressão estrangeira detectado automaticamente (verificação heurística; confirme manualmente)."
+        },
+        {
+          "item": 16,
+          "description": "Deve ser dividido nas seguintes seções: Introdução, Métodos, Resultados, Discussão, Agradecimentos (opcional) e Referências",
+          "status": "A",
+          "comments": "Seções encontradas: Introdução, Métodos, Resultados, Discussão, Referências"
+        },
+        {
+          "item": 111,
+          "description": "Seções INTRODUÇÃO, MÉTODOS, RESULTADOS, DISCUSSÃO, AGRADECIMENTOS e REFERÊNCIAS alinhadas à margem esquerda",
+          "status": "A",
+          "comments": "Títulos das seções alinhados à esquerda"
+        },
+        {
+          "item": 18,
+          "description": "Apresenta no máximo 4.000 palavras (da Introdução à Discussão)",
+          "status": "A",
+          "comments": "Total de palavras (3608): Introdução (500), Métodos (1073), Resultados (708), Discussão (1327)"
+        }
+      ]
+    },
+    {
+      "name": "TÍTULOS",
+      "items": [
+        {
+          "item": 19,
+          "description": "Inédito, curto, claro e conciso, identifica o conteúdo do manuscrito, com no máximo 15 palavras",
+          "status": "A",
+          "comments": "Todos os títulos têm no máximo 15 palavras (3 verificados). Ineditismo deve ser conferido manualmente."
+        },
+        {
+          "item": 23,
+          "description": "Títulos nos três idiomas (português, inglês e espanhol), um abaixo do outro",
+          "status": "A",
+          "comments": "Títulos nos três idiomas"
+        },
+        {
+          "item": 20,
+          "description": "Título principal em negrito, centralizado, fonte tamanho 12, espaçamento simples",
+          "status": "A",
+          "comments": "Título principal corretamente formatado"
+        },
+        {
+          "item": 21,
+          "description": "Títulos secundários em itálico, centralizados, fonte tamanho 12, espaçamento simples",
+          "status": "A",
+          "comments": "2 título(s) secundário(s) corretamente formatado(s)"
+        },
+        {
+          "item": 112,
+          "description": "Títulos com apenas a primeira letra em maiúsculo",
+          "status": "AP",
+          "comments": "Título 1: verificar maiúsculas (Unidade, Terapia, Intensiva); Título 2: verificar maiúsculas (Intensive, Care, Unit); Título 3: verificar maiúsculas (Unidad, Cuidados, Intensivos). Pode ser nome próprio (ex.: nome de unidade/instituição); confirme."
+        }
+      ]
+    },
+    {
+      "name": "RESUMOS",
+      "items": [
+        {
+          "item": 113,
+          "description": "Resumos abaixo dos títulos, com versões nos três idiomas",
+          "status": "A",
+          "comments": "Resumos em português, inglês e espanhol, abaixo dos títulos"
+        },
+        {
+          "item": 24,
+          "description": "Conciso, limite máximo de 250 palavras, em parágrafo único, com espaçamento simples entre as linhas",
+          "status": "NA",
+          "comments": "RESUMO: espaçamento entre linhas 1.5 (esperado simples); ABSTRACT: espaçamento entre linhas 1.5 (esperado simples); RESUMEN: espaçamento entre linhas 1.5 (esperado simples)"
+        },
+        {
+          "item": 25,
+          "description": "RESUMO – Justificativa e Objetivos, Métodos, Resultados e Conclusão (versão portuguesa)",
+          "status": "NA",
+          "comments": "'Justificativa e Objetivos:' não está em negrito; 'Métodos:' não encontrado; 'Resultados:' não está em negrito; 'Conclusão:' não está em negrito"
+        },
+        {
+          "item": 26,
+          "description": "ABSTRACT – Background and Objectives, Methods, Results e Conclusion (versão inglesa)",
+          "status": "NA",
+          "comments": "'Background and Objectives:' não está em negrito; 'Methods:' não está em negrito; 'Results:' não está em negrito; 'Conclusion:' não está em negrito"
+        },
+        {
+          "item": 27,
+          "description": "RESUMEN – Justificación y Objetivos, Métodos, Resultados e Conclusión (versão espanhola)",
+          "status": "NA",
+          "comments": "'Justificación y Objetivos:' não está em negrito; 'Métodos:' não está em negrito; 'Resultados:' não está em negrito; 'Conclusión:' não encontrado"
+        },
+        {
+          "item": 28,
+          "description": "Estruturado e separado nas seções: Justificativa e Objetivos, Métodos, Resultados, Conclusão (todos em negrito, somente a primeira letra em maiúsculo e seguido por dois pontos)",
+          "status": "NA",
+          "comments": "Nenhum dos resumos está estruturado corretamente"
+        }
+      ]
+    },
+    {
+      "name": "DESCRITORES",
+      "items": [
+        {
+          "item": 30,
+          "description": "Apresentados abaixo de cada versão do resumo, citados nos idiomas português, inglês e espanhol",
+          "status": "A",
+          "comments": "Descritores, Keywords e Palabras Clave encontrados abaixo das três versões"
+        },
+        {
+          "item": 31,
+          "description": "Apresenta de 3 a 5 descritores, segundo o DeCS/BIREME",
+          "status": "A",
+          "comments": "Descritores: 3; Keywords: 3; Palabras Clave: 3. Conferência no DeCS (decs.bvsalud.org) deve ser manual."
+        },
+        {
+          "item": 32,
+          "description": "Utiliza as terminologias 'Descritores', 'Keywords' e 'Palabras Clave', em negrito, com a primeira letra maiúscula, alinhadas à esquerda",
+          "status": "NA",
+          "comments": "'Palavras-chave' deveria ser 'Descritores'; 'Descritores' não está alinhado à esquerda (justify); 'Keywords' não está alinhado à esquerda (justify); 'Palabras clave' deveria ser 'Palabras Clave'; 'Palabras Clave' não está alinhado à esquerda (justify)"
+        },
+        {
+          "item": 33,
+          "description": "Descritores, Keywords e Palabras Clave grifados em itálico, separados por ponto final, com a primeira letra de cada descritor em maiúscula",
+          "status": "NA",
+          "comments": "descritores de 'Descritores' não estão em itálico; descritores de 'Descritores' separados por ponto e vírgula (esperado ponto final); descritores de 'Keywords' separados por ponto e vírgula (esperado ponto final); descritores de 'Palabras Clave' separados por ponto e vírgula (esperado ponto final)"
+        }
+      ]
+    },
+    {
+      "name": "INTRODUÇÃO",
+      "items": [
+        {
+          "item": 114,
+          "description": "O objetivo é coerente com o estudo, destacado no último parágrafo da introdução e iniciado por verbo no infinitivo",
+          "status": "A",
+          "comments": "Objetivo no último parágrafo, com verbo 'compreender'. Coerência com o estudo deve ser avaliada manualmente."
+        },
+        {
+          "item": 115,
+          "description": "O objetivo é idêntico ao apresentado no resumo",
+          "status": "AP",
+          "comments": "69% das palavras-chave do objetivo da Introdução aparecem no objetivo do RESUMO"
+        }
+      ]
+    },
+    {
+      "name": "MÉTODO",
+      "items": [
+        {
+          "item": 36,
+          "description": "Delineamento",
+          "status": "-",
+          "comments": "Verificação por LLM desativada (--sem-llm)"
+        },
+        {
+          "item": 37,
+          "description": "Cenário estudado",
+          "status": "-",
+          "comments": "Verificação por LLM desativada (--sem-llm)"
+        },
+        {
+          "item": 38,
+          "description": "População",
+          "status": "-",
+          "comments": "Verificação por LLM desativada (--sem-llm)"
+        },
+        {
+          "item": 39,
+          "description": "Critérios de seleção (inclusão/exclusão)",
+          "status": "-",
+          "comments": "Verificação por LLM desativada (--sem-llm)"
+        },
+        {
+          "item": 40,
+          "description": "Fonte de dados",
+          "status": "-",
+          "comments": "Verificação por LLM desativada (--sem-llm)"
+        },
+        {
+          "item": 41,
+          "description": "Período de coleta dos dados",
+          "status": "-",
+          "comments": "Verificação por LLM desativada (--sem-llm)"
+        },
+        {
+          "item": 42,
+          "description": "Tipo de análise realizada",
+          "status": "-",
+          "comments": "Verificação por LLM desativada (--sem-llm)"
+        },
+        {
+          "item": 116,
+          "description": "Considerações éticas descritas no último parágrafo da seção de métodos",
+          "status": "A",
+          "comments": "Considerações éticas no último parágrafo de Métodos"
+        }
+      ]
+    },
+    {
+      "name": "ASPECTOS ÉTICOS",
+      "items": [
+        {
+          "item": 117,
+          "description": "Para estudos com seres humanos, indica no último parágrafo do método o parecer do CEP",
+          "status": "A",
+          "comments": "Parecer/aprovação do CEP indicado"
+        },
+        {
+          "item": 118,
+          "description": "Pesquisa conduzida segundo os padrões éticos — Resoluções 466/2012, 510/2016 ou 580/2018 do Ministério da Saúde",
+          "status": "NA",
+          "comments": "Nenhuma das Resoluções 466/2012, 510/2016 ou 580/2018 foi citada"
+        },
+        {
+          "item": 119,
+          "description": "Apresenta o número do protocolo de aprovação e a data de aprovação no CEP",
+          "status": "AP",
+          "comments": "Falta a data de aprovação"
+        },
+        {
+          "item": 120,
+          "description": "O número do CAAE foi adicionado nos Métodos",
+          "status": "A",
+          "comments": "CAAE no formato 00000000.0.0000.0000"
+        }
+      ]
+    },
+    {
+      "name": "RESULTADOS",
+      "items": [
+        {
+          "item": 121,
+          "description": "Tabelas e figuras numeradas em ordem sequencial",
+          "status": "A",
+          "comments": "5 legenda(s) em sequência"
+        },
+        {
+          "item": 122,
+          "description": "Apresenta tabelas e ilustrações em sequência lógica, com texto complementar a essas (citadas no texto)",
+          "status": "A",
+          "comments": "Todas as tabelas/figuras são citadas no texto"
+        }
+      ]
+    },
+    {
+      "name": "DISCUSSÃO",
+      "items": [
+        {
+          "item": 123,
+          "description": "Utilizaram-se referências, majoritariamente, de manuscritos publicados nos últimos cinco anos, nacionais e internacionais",
+          "status": "NA",
+          "comments": "9/24 referências (38%) de 2021 em diante; nacionais e internacionais"
+        },
+        {
+          "item": 124,
+          "description": "Indica no penúltimo parágrafo as limitações do estudo e formas de mitigação",
+          "status": "AP",
+          "comments": "Limitações citadas, mas não no penúltimo parágrafo (parágrafo(s) [14] de 18)"
+        }
+      ]
+    },
+    {
+      "name": "CONCLUSÃO",
+      "items": [
+        {
+          "item": 53,
+          "description": "Não leva conclusão em seção separada, sendo incorporada ao último parágrafo da discussão",
+          "status": "NA",
+          "comments": "Existe seção separada de Conclusão/Considerações finais (artigos originais devem incorporá-la à Discussão)"
+        }
+      ]
+    },
+    {
+      "name": "SÍMBOLOS, ABREVIATURAS E SIGLAS",
+      "items": [
+        {
+          "item": 125,
+          "description": "Acrônimos desconhecidos escritos por extenso na primeira aparição, com a sigla entre parênteses",
+          "status": "AP",
+          "comments": "Siglas sem extenso na primeira aparição (6/15): CID-10, CID-11, RT, IBM, IQR, SIH"
+        },
+        {
+          "item": 126,
+          "description": "Termos COVID-19, HIV e AIDS escritos dessa maneira (caso a temática esteja relacionada)",
+          "status": "NA",
+          "comments": "Grafia incorreta: Covid, Covid-19, covid, covid-19 (use COVID-19, HIV, AIDS)"
+        }
+      ]
+    },
+    {
+      "name": "TABELAS, QUADROS E GRÁFICOS",
+      "items": [
+        {
+          "item": 54,
+          "description": "Apresenta no máximo 5 figuras e/ou tabelas, apresentadas no corpo do texto",
+          "status": "A",
+          "comments": "0 tabela(s) e 5 imagem(ns); 5 legenda(s) de tabela/figura/gráfico (total 5)"
+        },
+        {
+          "item": 58,
+          "description": "Tabelas são elaboradas no Word (editáveis, não como imagem)",
+          "status": "NA",
+          "comments": "Figura(s) 2, 3, 4 parecem ser tabelas inseridas como imagem — refaça no Word como tabela editável"
+        },
+        {
+          "item": 127,
+          "description": "Tabelas tituladas em cima, alinhadas à esquerda, fonte tamanho 10 e com espaçamento simples",
+          "status": "NSA",
+          "comments": "O manuscrito não contém tabelas"
+        },
+        {
+          "item": 128,
+          "description": "Nas tabelas não há linhas entre as variáveis nem linhas de fundo (apenas linhas de topo, cabeçalho e rodapé)",
+          "status": "NSA",
+          "comments": "O manuscrito não contém tabelas"
+        },
+        {
+          "item": 129,
+          "description": "Tabelas com espaçamento simples",
+          "status": "NSA",
+          "comments": "O manuscrito não contém tabelas"
+        },
+        {
+          "item": 130,
+          "description": "Figuras apresentam boa qualidade (resolução)",
+          "status": "AP",
+          "comments": "1 imagem(ns) entre 96 e 150 dpi. DPI efetivos: 96, 316, 280, 201, 204"
+        },
+        {
+          "item": 61,
+          "description": "Figuras tituladas embaixo, alinhadas à esquerda, tamanho 10 e com espaçamento simples",
+          "status": "NA",
+          "comments": "Figura 1: alinhamento justify (esperado à esquerda), fonte 12pt (esperado 10pt), espaçamento entre linhas 1.5 (esperado simples); Figura 2: legenda acima da imagem (deve estar abaixo); Figura 4: alinhamento justify (esperado à esquerda), fonte 12pt (esperado 10pt), espaçamento entre linhas 1.5 (esperado simples); Figura 5: alinhamento justify (esperado à esquerda), fonte 12pt (esperado 10pt), espaçamento entre linhas 1.5 (esperado simples); Figura 5: legenda acima da imagem (deve estar abaixo)"
+        },
+        {
+          "item": 132,
+          "description": "Gráficos padronizados na cor preta, preferencialmente em colunas",
+          "status": "NSA",
+          "comments": "O manuscrito não contém gráficos"
+        },
+        {
+          "item": 133,
+          "description": "Gráficos titulados em cima, alinhados à esquerda, fonte tamanho 10 e espaçamento simples",
+          "status": "NSA",
+          "comments": "O manuscrito não contém gráficos"
+        },
+        {
+          "item": 131,
+          "description": "Títulos de tabelas/figuras com conteúdo explicativo e informação sobre o recorte geográfico e temporal",
+          "status": "A",
+          "comments": "Legendas com conteúdo explicativo, local e período"
+        }
+      ]
+    },
+    {
+      "name": "REFERÊNCIAS AO LONGO DO TEXTO",
+      "items": [
+        {
+          "item": 134,
+          "description": "Citações no texto sobrescritas, sem parênteses, sempre no final do parágrafo, após o ponto final",
+          "status": "NA",
+          "comments": "29× citação antes do ponto final / no meio da frase"
+        },
+        {
+          "item": 135,
+          "description": "Referências em ordem sequencial numérica, todas citadas, separadas por vírgula e, em sequências, por hífen (ex.: 7,10-16)",
+          "status": "A",
+          "comments": "25 referência(s) citadas em ordem sequencial"
+        }
+      ]
+    },
+    {
+      "name": "REFERÊNCIAS",
+      "items": [
+        {
+          "item": 66,
+          "description": "Apresentam-se nas Normas de Vancouver",
+          "status": "NA",
+          "comments": "24/25 em formato adequado. Ref 23: formato de autores inválido, ano não identificado"
+        },
+        {
+          "item": 136,
+          "description": "Evita citações com os nomes de autores em destaque no texto",
+          "status": "A",
+          "comments": "Nenhuma citação com nome de autor em destaque"
+        },
+        {
+          "item": 69,
+          "description": "Referências em fonte 12, espaçamento simples, justificado",
+          "status": "NA",
+          "comments": "25 referências. Problemas: Ref 1: espaçamento incorreto; Ref 2: espaçamento incorreto; Ref 3: espaçamento incorreto (e mais 22)"
+        },
+        {
+          "item": 137,
+          "description": "Apresenta, majoritariamente, 40% de referências internacionais nos últimos 5 anos",
+          "status": "NA",
+          "comments": "7/25 referências internacionais de 2021 em diante (28%); idioma inferido pelo título"
+        },
+        {
+          "item": 71,
+          "description": "Apresentam DOI nas referências ou endereço eletrônico",
+          "status": "NA",
+          "comments": "23/25 referências com DOI/URL. Faltam nas refs: 15, 21"
+        },
+        {
+          "item": 72,
+          "description": "Autores pelo sobrenome; letra inicial maiúscula, seguida do(s) nome(s) abreviado(s) e sem ponto (ex.: Posma DM, Bill D)",
+          "status": "A",
+          "comments": "25/25 referências com formatação correta de autores"
+        },
+        {
+          "item": 73,
+          "description": "Artigos com mais de 3 autores citam os três primeiros nomes antes da expressão 'et al'",
+          "status": "A",
+          "comments": "17 referência(s) com 'et al' formatadas corretamente"
+        }
+      ]
+    }
+  ]
+}
