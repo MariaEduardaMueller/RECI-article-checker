@@ -1,4 +1,4 @@
-# reci-checker
+# article-checker
 
 Verifica a conformidade de manuscritos (`.docx` **ou** `.pdf`) com o **Checklist da Revista RECI** e gera um relatório
 no terminal, em **PDF colorido** (azul = atende, verde = parcial, amarelo = não atende) e em **JSON**.
@@ -60,16 +60,6 @@ O item 13 reprova PDF por definição (a revista exige Word `.docx`), mas todo o
 
 Itens que dependem de julgamento humano (ortografia, ineditismo, DeCS, abreviação de periódicos...) aparecem no
 final do relatório como "verificação manual".
-
-## Correções em relação à versão anterior
-
-- `cli.py` dizia aceitar PDF, mas só aceitava `.docx`; `docx_utils.py` usava `ET` sem importar; dependia de XML despejado em `resources/xml`.
-- Item 73 aprovava mais de 3 autores antes de "et al" (o Checklist exige exatamente os três primeiros).
-- Item 31 reprovava por separador (`;`), que pertence ao item 33.
-- Itens 20/21/69 ignoravam formatação herdada de estilos (falsos negativos) e não checavam negrito indevido nos títulos secundários.
-- Item 4 só reconhecia afiliações com palavras-chave fixas e UF por extenso; agora aceita sigla (PR) e outras instituições.
-- O LLM recebia o manuscrito inteiro; agora recebe só a seção Métodos, com saída JSON forçada e falha graciosa.
-- `nltk` removido (detecção de idioma embutida, funciona offline).
 
 ## Testes
 
