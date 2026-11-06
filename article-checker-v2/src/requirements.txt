@@ -1,0 +1,5 @@
+python-docx>=1.2      # leitura do .docx e comentários do Word (add_comment exige 1.2+)
+tabulate>=0.9
+Pillow>=10            # análise de resolução/cor das imagens
+ollama                # opcional (itens de Métodos com LLM; sem ele usa palavras-chave)
+pytest                # opcional (testes)
