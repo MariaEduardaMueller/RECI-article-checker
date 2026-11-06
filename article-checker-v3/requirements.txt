@@ -1,5 +1,5 @@
 python-docx>=1.2      # leitura do .docx e comentários do Word (add_comment exige 1.2+)
-flask>=3.0            # site local
+streamlit
 tabulate>=0.9
 Pillow>=10            # análise de resolução/cor das imagens e banner
 ollama                # opcional: IA local (sem ele, itens de julgamento ficam manuais)
